@@ -17,7 +17,7 @@ body{
     font-size: 18;
     font-weight: bold;
 
-    background: #59b776;
+    background: rgb(19, 137, 233);
 }
 
 /******************************************************************
@@ -35,7 +35,7 @@ body{
 */
 #wrapper header, #wrapper footer{
     height: 9.5%;
-    background: rgb(233, 110, 110);
+    background: rgba(255, 106, 0, 0.923);
     padding-top: 0.5%;
 }
 
@@ -54,7 +54,7 @@ body{
 #central nav{
     padding: 10px;
     height: 100%;
-    background: rgb(5, 84, 163);
+    background: rgb(0, 176, 18);
 
     order: 1;
     flex: 1 1 auto;
@@ -64,7 +64,7 @@ body{
 #central section{
     height: 100%;
     margin: 0 0.5%;
-    background: rgb(211, 192, 108);
+    background: rgba(255, 106, 0, 0.923);
     padding: 0.5%;
 
     order: 2;
@@ -79,7 +79,7 @@ body{
     height: 100%;
     order: 3;
     flex: 1 1 auto;
-    background: rgb(5, 84, 163);
+    background: rgb(0, 176, 18);
 }
 
 /******************************************************************
@@ -87,7 +87,7 @@ body{
 ******************************************************************/
 
 #central section>header{
-    background: rgb(241, 151, 151);
+    background: rgb(0, 176, 18);
     border: 3px solid #456789;
 
     height: 14%;
@@ -96,7 +96,7 @@ body{
 }
 
 #central section>article{
-    background: rgb(241, 151, 151);
+    background: rgb(0, 176, 18);
     border: 3px solid #456789;
 
     height: 69%;
@@ -105,7 +105,7 @@ body{
 }
 
 #central section>footer{
-    background: rgb(241, 151, 151);
+    background: rgb(0, 176, 18);
     border: 3px solid #456789;
 
     height: 14%;
